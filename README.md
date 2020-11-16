@@ -1,4 +1,12 @@
 ### Hi there 👋
+반갑습니다!
+혼자보다 함께의 가치를 믿는 프론트엔드 개발자 구현정입니다.
+
+Velog: https://velog.io/@sunnysideup0w0
+Recent Works
+-> https://github.com/sunnysideup0w0v/vue_dev101 (React to Vue REFACTORING PROJECT)
+-> https://github.com/sunnysideup0w0v/13-DEV101-frontend (CLASS101 CLONE PROJECT)
+-> https://github.com/sunnysideup0w0v/13-FORKFOLK-frontend (KINFOLK CLONE PROJECT)
 
 <!--
 **sunnysideup0w0v/sunnysideup0w0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
