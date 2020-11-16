@@ -12,7 +12,7 @@ Main Skills <br/>
 <br/>
 <br />
 Recent Works<br/>
-- https://github.com/sunnysideup0w0v/vue_dev101 (React to Vue REFACTORING PROJECT) <br/>
+- https://github.com/sunnysideup0w0v/vue_dev101 (React to Vue REFACTORING PROJECT : ..ing) <br/>
 - https://github.com/sunnysideup0w0v/13-DEV101-frontend (CLASS101 CLONE PROJECT) <br/>
 - https://github.com/sunnysideup0w0v/13-FORKFOLK-frontend (KINFOLK CLONE PROJECT) <br/>
 
