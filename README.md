@@ -2,7 +2,8 @@
 반갑습니다!
 혼자보다 함께의 가치를 믿는 프론트엔드 개발자 구현정입니다.
 
-**Velog: https://velog.io/@sunnysideup0w0**
+> **Velog: https://velog.io/@sunnysideup0w0** <br/>
+visit and feedback to my post :)
 
 <br />
 Recent Works<br/>
