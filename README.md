@@ -5,13 +5,13 @@
 > **Velog: https://velog.io/@sunnysideup0w0** <br/>
 visit and feedback to my post :)
 <br/>
-**Main Skills** <br/>
+Main Skills <br/>
 - HTML5, CSS3<br/>
 - ES6 JavaScript<br/>
 - React<br/>
 <br/>
 <br />
-**Recent Works**<br/>
+Recent Works<br/>
 - https://github.com/sunnysideup0w0v/vue_dev101 (React to Vue REFACTORING PROJECT) <br/>
 - https://github.com/sunnysideup0w0v/13-DEV101-frontend (CLASS101 CLONE PROJECT) <br/>
 - https://github.com/sunnysideup0w0v/13-FORKFOLK-frontend (KINFOLK CLONE PROJECT) <br/>
