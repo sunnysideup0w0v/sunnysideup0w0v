@@ -6,9 +6,9 @@
 visit and feedback to my post :)
 <br/>
 Main Skills <br/>
-- React.js, Recoil
+- React.js, Recoil<br/>
 - HTML5, CSS, Javascript<br/>
-- GraphQL, MongoDB, Mongoose, Apollo
+- GraphQL, MongoDB, Mongoose, Apollo<br/>
 - Electron
 <br/>
 <br />
