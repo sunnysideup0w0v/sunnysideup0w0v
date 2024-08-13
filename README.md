@@ -13,7 +13,8 @@ NoSQL 기반의 DB구성, 백엔드 서버를 덧붙이는 등의 업데이트/�
 제 여정은 언제나 velog를 통해 공유되고 있습니다 :)<br/>
 커피챗, 이직 제안 등 여러가지 방면에 대해 소통은 늘 열려있으니 편하게 방문해주세요! 감사합니다!!<br/>
 <br/>
-> **Velog: https://velog.io/@sunnysideup0w0** <br/>
+>Velog: https://velog.io/@sunnysideup0w0 <br/>
+>LinkedIn: https://www.linkedin.com/in/%ED%98%84%EC%A0%95-%EA%B5%AC-043b941ba
 <br/>
 Main Skills <br/>
 - React.js, Recoil<br/>
